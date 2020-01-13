@@ -1,1 +1,1 @@
-print("Hello world 2222!")
+print("Привет мир! 2222!")
